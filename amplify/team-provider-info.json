@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-htmlvisualize-dev-205259-authRole",
+      "UnauthRoleArn": "arn:aws:iam::825789900535:role/amplify-htmlvisualize-dev-205259-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::825789900535:role/amplify-htmlvisualize-dev-205259-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-htmlvisualize-dev-205259-deployment",
+      "UnauthRoleName": "amplify-htmlvisualize-dev-205259-unauthRole",
+      "StackName": "amplify-htmlvisualize-dev-205259",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:825789900535:stack/amplify-htmlvisualize-dev-205259/e3726730-e8df-11ed-9f78-0254d6466214",
+      "AmplifyAppId": "depl5burf33cc"
+    },
+    "categories": {
+      "api": {
+        "htmlvisualize": {}
+      }
+    }
+  }
+}
